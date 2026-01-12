@@ -6,6 +6,7 @@ Descarga el archivo APK e instálalo en tu dispositivo Android.
 **Requisitos:**
 - Android 5.0 (API 21) o superior
 - Espacio disponible: ~52 MB
+- Permisos para instalar aplicaciones desconocidas
 
 ### ✨ Características de esta versión
 - Sistema de reservas de pistas de pádel
@@ -17,6 +18,7 @@ Descarga el archivo APK e instálalo en tu dispositivo Android.
 Esta aplicación se conecta al servidor oficial del Club Pádel Andújar.
 
 ### Historico
+ - Versión v1.1.3 (Soporte completo para recuperación de contraseña vía email)
  - Versión v1.1.0 (Release inicial)
  - Versión v1.1.2 (Añadida Biometría)
 
