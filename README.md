@@ -19,6 +19,9 @@ Esta aplicación se conecta al servidor oficial del Club Pádel Andújar.
 ### Historico
  - Versión v1.1.0 (Release inicial)
  - Versión v1.1.2 (Añadida Biometría)
+
+### Last Release
+[Club Pádel Andújar v1.1.2](https://github.com/davidhermosilla/club-padel-app-releases/releases/tag/v1.1.2)
 ---
 
 Para más información o soporte, contacta con el club.
