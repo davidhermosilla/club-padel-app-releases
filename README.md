@@ -18,7 +18,7 @@ Descarga el archivo APK e instálalo en tu dispositivo Android.
 Esta aplicación se conecta al servidor oficial del Club Pádel Andújar.
 
 ### Historico
- - Versión v1.2.0 (Gesti?n de d?as extraordinarios con backend (listar, crear y eliminar).; La configuraci?n de horarios de festivos sincroniza con la API.; El men? superior ahora es un popup y evita que los textos se partan en varias l?neas.)
+ - Versión v1.2.0 (Gestión de días extraordinarios con backend (listar, crear y eliminar)).; La configuración de horarios de festivos sincroniza con la API.; El men? superior ahora es un popup y evita que los textos se partan en varias líneas.)
 
 ## Last Release
 [Club Pádel Andújar v1.1.4](https://github.com/davidhermosilla/club-padel-app-releases/releases/download/v1.1.4/clubpadelandujar-1.1.4.apk)
